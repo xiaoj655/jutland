@@ -947,6 +947,29 @@
     ]
   },
   {
+    "name": "unicorn",
+    "displayName": "Unicorn",
+    "type": "Aircraft Maintenance Carrier",
+    "armaments": [
+      {"label": "Dual-purpose Guns", "value": "8x1 102mm/45"},
+      {"label": "Anti-aircraft Guns", "value": "6x4 40mm/39 2-pounder"},
+      {"label": "Fighters", "value": "Fairey Fulmar Mk I x12"},
+      {"label": "Torpedo Bombers", "value": "Fairey Swordfish Mk I x12"}
+    ],
+    "description": "HMS Unicorn (I72) was the Royal Navy's first purpose-built aircraft maintenance carrier, completed in March 1943. Equipped with workshops, two hangars, and a full flight deck, she could repair aircraft while operating them at sea. Unicorn supported the Salerno landings, the Eastern and British Pacific Fleets, and later carrier operations during the Korean War. Sold for scrap in 1959, she was broken up in 1960.",
+    "author": "Hood, Bombhead, Krakatoa",
+    "links": [
+      {
+        "name": "Alternate Universe Warships - HMS Unicorn Artwork",
+        "url": "http://www.alternateuniversewarships.com/Royal%20Commonwealth%20Navy/CVL%201941%20Unicorn/CVL_1941_Unicorn.htm"
+      },
+      {
+        "name": "Wikipedia - HMS Unicorn (I72)",
+        "url": "https://en.wikipedia.org/wiki/HMS_Unicorn_(I72)"
+      }
+    ]
+  },
+  {
     "name": "courageous",
     "displayName": "Courageous",
     "type": "Aircraft Carrier",

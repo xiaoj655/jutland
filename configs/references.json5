@@ -581,6 +581,29 @@
     ]
   },
   {
+    name: "unicorn",
+    displayName: "独角兽",
+    type: "航空维修航母",
+    armaments: [
+      {label: "高平炮", value: "8x1 102mm/45"},
+      {label: "高炮", value: "6x4 40mm/39 2 磅炮"},
+      {label: "制空战斗机", value: "海燕式（Fulmar Mk I）12"},
+      {label: "鱼雷攻击机", value: "剑鱼式（Swordfish Mk I）12"},
+    ],
+    description: "独角兽号（I72）是英国皇家海军首艘专门建造的航空维修航母，配有完整飞行甲板、双层机库和舰载机维修设施，可在支援舰队航母的同时起降飞机。该舰于 1943 年 3 月服役，参加了萨莱诺登陆，后又支援东印度舰队与英国太平洋舰队；朝鲜战争期间作为补给航母继续服役。1959 年该舰被出售拆解，至 1960 年完成拆除。",
+    author: "Hood, Bombhead, Krakatoa",
+    links: [
+      {
+        name: "Alternate Universe Warships - HMS Unicorn 素材",
+        url: "http://www.alternateuniversewarships.com/Royal%20Commonwealth%20Navy/CVL%201941%20Unicorn/CVL_1941_Unicorn.htm"
+      },
+      {
+        name: "维基百科 - 独角兽号航空母舰",
+        url: "https://zh.wikipedia.org/wiki/%E7%8D%A8%E8%A7%92%E7%8D%B8%E8%99%9F%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%89%A6"
+      }
+    ]
+  },
+  {
     name: "courageous",
     displayName: "勇敢",
     type: "航空母舰",
